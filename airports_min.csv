@@ -1,0 +1,46 @@
+id,name,importancia
+100,Capital City                           ,0.8083
+101,Albany County                          ,0.8632
+102,Waterloo Muni                          ,0.7685
+103,Tompkins County                        ,0.8497
+104,Twin Falls-Sun Valley Regional         ,0.6560
+105,Detroit City                           ,0.8163
+106,Sioux Gateway                          ,0.7482
+107,Dubuque Regional                       ,0.7771
+108,Rogue Valley Intl- M                   ,0.6133
+109,General Edward Lawrence Logan          ,0.8775
+110,Worcester Muni                         ,0.8730
+111,Kalamazoo/Battle Creek Interna         ,0.8034
+112,Detroit Metropolitan Wayne Cou         ,0.8146
+113,Binghamton Regional/Edwin A Li         ,0.8521
+114,Greater Rockford                       ,0.7853
+115,Elmira/Corning Regional                ,0.8475
+116,Klamath Falls Intll                    ,0.6191
+117,Erie Intl                              ,0.8308
+118,Chicago O'hare Intl                    ,0.7914
+119,Bradley Intl                           ,0.8689
+120,Cedar Rapids Muni                      ,0.7720
+121,William B. Heilig Field                ,0.7115
+122,Merrill C Meigs                        ,0.7929
+123,Chicago Midway                         ,0.7922
+124,Jack Mc Namara Field                   ,0.6064
+125,Theodore Francis Green State           ,0.8753
+126,Michiana Rgnl Transportation C         ,0.7995
+127,Toledo Express                         ,0.8123
+128,Des Moines Intl                        ,0.7621
+129,Stewart Int'l                          ,0.8617
+130,Quad-City                              ,0.7781
+131,Cleveland-Hopkins Intl                 ,0.8222
+132,Wilkes-Barre/Scranton Intl             ,0.8534
+133,Eppley Airfield                        ,0.7507
+134,Tweed-New Haven                        ,0.8679
+135,Youngstown-Warren Regional             ,0.8282
+136,Westchester County                     ,0.8637
+137,Fort Wayne Intll                       ,0.8052
+138,Arcata                                 ,0.6070
+139,Akron-Canton Regional                  ,0.8243
+140,Lincoln Muni                           ,0.7463
+141,University Park                        ,0.8426
+142,Elko Muni-J.C. Harris Field            ,0.6494
+143,Long Island Mac Arthur                 ,0.8668
+144,Salt Lake City Intl                    ,0.6688
